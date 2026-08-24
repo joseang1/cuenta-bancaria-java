@@ -1,4 +1,4 @@
-package com.josedev;
+package com.josedev.bankaccount;
 
 public class SavingsAccount extends Account {
     private boolean active;

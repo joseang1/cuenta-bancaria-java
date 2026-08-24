@@ -1,4 +1,4 @@
-package com.josedev;
+package com.josedev.bankaccount;
 
 public class Account {
     protected float balance;
